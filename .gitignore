@@ -1,0 +1,24 @@
+# ── SECRET FILES — never push these ──
+serviceAccountKey.json
+a.env
+.env
+
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# ── VS Code ──
+.vscode/
+*.code-workspace
+
+# ── OS files ──
+.DS_Store
+Thumbs.db
+desktop.ini
