@@ -1,10 +1,10 @@
-# Cloud-Based Encrypted File Management System
+ Cloud-Based Encrypted File Management System
 
-## Final Year Project
+Final Year Project
 
 A secure cloud-based file storage and sharing platform developed as a Final Year Project for the Bachelor of Computer Science (Cybersecurity) programme at AIMST University.
 
-## Overview
+ Overview
 
 This system focuses on protecting sensitive files through strong encryption mechanisms while providing secure storage and controlled sharing features.
 
@@ -38,18 +38,17 @@ This system focuses on protecting sensitive files through strong encryption mech
 - AES-256
 - RSA-2048
 
-## Objectives
+ Objectives
 
 - Protect user files from unauthorized access
 - Provide secure file sharing
 - Demonstrate practical implementation of cryptographic techniques
 - Improve cloud storage security
-
-## Project Status
+ Project Status
 
 Final Year Project (Ongoing Development)
 
-## Author
+ Author
 
 Gajavarthini Karunan
 Bachelor of Computer Science (Cybersecurity)
